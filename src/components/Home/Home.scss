@@ -1,0 +1,5 @@
+.container{
+    display:flex;
+    flex-wrap:wrap; //sayfa dolduğunda bi satır aşağı iner
+    justify-content: space-around; //kenarlardan boşluk bırakır componentler arasında da boşluk bırakır
+}
